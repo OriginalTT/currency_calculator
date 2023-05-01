@@ -1,0 +1,18 @@
+.resultContainer {
+    margin-top: 3rem;
+    width: 200px;
+    height: 75px;
+    background-color: #B5E5BF;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-weight: 200;
+    color: white;
+}

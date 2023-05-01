@@ -1,0 +1,42 @@
+.currencyTag {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+}
+
+.currencyTag h1 {
+    font-size: 128px;
+    margin: -2.5rem 0 0 0;
+}
+.currencyTag h2 {
+    font-size: 64px;
+    margin: 0;
+}
+
+.option {
+    position: relative;
+    left: 165px;
+    top: 35px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: none;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.typeA {
+    background-color: #9DAAD9;
+}
+
+.typeB {
+    background-color: #A1E9B1;
+}
